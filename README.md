@@ -1,2 +1,2 @@
 # AndroShop
-AndroShop, Magasin d'Applications pour Téléphone Android
+Magasin d'Applications pour Téléphone Android
