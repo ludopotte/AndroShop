@@ -1,4 +1,4 @@
-# AndroShop
+# Andro Shop
 MAGASIN D'APPLICATIONS POUR SMARTPHONE ANDROID
 
 ACCES A L'ANDROSHOP AU www.31u1.short.gy/androshop
